@@ -1,11 +1,8 @@
 def main():
-    """
-    Função principal do programa.
-    """
+
     while True: 
-        print("#######################################################")
-        print("## CALCULADORA DO SISTEMAS INTERNACIONAL DE UNIDADES ##")
-        print("#######################################################")
+
+        print("CALCULADORA DO SISTEMAS INTERNACIONAL DE UNIDADES")
 
         print("\nEscolha uma conversão:")
         print("1. Comprimento (m para km)")
